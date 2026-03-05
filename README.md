@@ -1,6 +1,6 @@
 # CS50 Artificial Intelligence Projects
 
-These are projects I completed while taking **CS50's Introduction to Artificial Intelligence with Python** from Harvard.
+These are projects I completed while taking **CS50's Introduction to Artificial Intelligence with Python** from Harvard edX.
 
 The course focused on core artificial intelligence concepts such as search algorithms, logical inference, machine learning, neural networks, and natural language processing.
 
